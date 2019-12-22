@@ -1,0 +1,7 @@
+section,in_resume,title,loc,institution,start,end,description_1,description_2,description_3,description_4
+education,TRUE,PhD Candidate,Zurich Switzerland,ETH Zurich,2018,Current,**Research project**: Graph based sequence variant analysis,"**Skills learned**: Bioinformatics pipeline management for whole genome data, Graph analytic",**Adviser**: Prof.Dr. Hubert Pausch,NA
+education,TRUE,Msc in Quantitative Genetics and Genome Analysis,Ediburgh United Kingdom,University of Edinburgh,2016,2017,**Thesis**: Widespread gene duplication in *Drosophila* RNAi pathways,"**Skill learned**: Pylogenetic analysis, Bayesian statistics",**Adviser**: Dr. Darren Obbard,Selected as the **best master** thesis in population and quantitative genetics
+publication,TRUE,Accurate sequence variant genotyping using variation-aware genome graphs,NA,*Genetic Selection Evolution*,NA,2019,Published in the first year of PhD,First work of using graphs for sequence variant discovery in livestock,NA,NA
+publication,TRUE,Widespread Gene Duplication in RNAi pathways of Drosophila,,*BMC Evolutionary Biology*,NA,2019,Published from Master's work,Identified massive gene duplications from analysis >30 Drosophila genome,NA,NA
+award,TRUE,Sir Kenneth Mather Memorial Prize,NA,UK Genetic Society,NA,2018,"Awarded annually based on the UK BSc, Msc and PhD thesis with an outstanding work in population genomics and quantitative genetics.",NA,NA,NA
+award,TRUE,The Douglas Falconer Prize,NA,University of Edinburgh,NA,2017,Awarded as the best master's thesis,NA,NA,NA
