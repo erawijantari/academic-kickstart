@@ -93,7 +93,7 @@ Disclaimer {#disclaimer}
 This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).  
 <br>
 
-Source code available at: [github.com/erawijantari/cv](https://github.com/erawijantari/erawijantari.github.io/static/cv_era). 
+Source code available at: [github.com/erawijantari/cv](https://github.com/erawijantari/academic-kickstart/tree/master/static/files/cv_era). 
 <br>
 
 Last updated on `r Sys.Date()`.
