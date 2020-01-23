@@ -25,10 +25,12 @@ interests:
 - Bioinformatics
 - Multi-omics analysis
 - Data analysis
+- Reproducible research
+- Causal inference
 
 education:
   courses:
-  - course: PhD candidate in Life Science and Techology
+  - course: PhD student in Life Science and Techology
     institution: Tokyo Institute of Technology
     year: 2017-Present
   - course: M.Sc in Biological Information
@@ -78,7 +80,7 @@ email: ""
 ---
 
 
-I am a PhD candidate in School of Life Science and Technology, Tokyo Institute of Technology where I belong to [Yamada Laboratory group](http://comp.bio.titech.ac.jp/home-en/). In this group, I learn and take part in exploring the gut microbiome world through various data analysis approaches.
+I am a PhD student in School of Life Science and Technology, Tokyo Institute of Technology where I belong to [Yamada Laboratory group](http://comp.bio.titech.ac.jp/home-en/). In this group, I learn and take part in exploring the gut microbiome world through various data analysis approaches.
 
 Originally my initial training was in biology, where I have worked on the deep-sea metagenomics study, synthetic biology, and phytochemical effectiveness as anticancer treatment. Currently, I am mostly working behind the computer. My current research mainly focus on the dynamics of human gut microbiome in  gastrointestinal-related diseases. In particular, I have worked on the gastrectomy effect on human gut microbiome in a gastric cancer case. This study uses the multi-omics approaches, which involve the metagenomics and metabolomics analyses on human fecal samples. I used Python, R, and shell scripting for my projects, which mostly run in the cluster computer. Complexity and fast-growing data in microbiome study also push me to learn a lot of new skills, which are a fascinating process. I am particularly interested in understanding the roles of microbiome as an effect or consequence in gastrointestinal-related diseases and treatment effectiveness.
 

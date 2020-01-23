@@ -38,7 +38,7 @@ Discuss the topic from "The Breakthrough of the year" selected by the Journal "S
 **Sites**: [International Bio-Creative Design](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201924065&lang=EN)
 
 ### LST Bioleader Training 1
-Based on the idea that ""teaching is the best way of learning"", this course aims at helping students acquire the competency to solve problems in conducting experiments and research projects as well as to communicate with others in research.
+Based on the idea that "teaching is the best way of learning", this course aims at helping students acquire the competency to solve problems in conducting experiments and research projects as well as to communicate with others in research.
 
 **Time frame**: 2017-2018
 
