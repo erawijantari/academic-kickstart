@@ -40,7 +40,6 @@ Fukuda S , Yachida S, Yamada T. Influence of gastrectomy for gastric cancer trea
 
 
 
-
 ## **Past Research**
 
 I have worked on the deep-sea metagenomics study and synthetic biology during my undergraduate years. After graduations in bachelor program, I have worked in private research institute working on phytochemical effectiveness as anticancer treatment.
