@@ -15,8 +15,6 @@ header:
 ---
 
 
-## **Current Research**
-
 I am curently involve in several research projects related to explorations of gut microbiome and metabolome in gastrointestinal related diseases. My main project aims for **comprehensive characterizations of human fecal microbiome and metabolome after gastrectomy for gastric cancer**. In additions, I also actively involve as a research assistant for hereditary colorectal cancer project and diet-microbiome project. 
 <br></br>
 <br></br>
