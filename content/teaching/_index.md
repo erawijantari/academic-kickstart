@@ -22,7 +22,7 @@ I have been taking part on several teaching activity either become teaching assi
 
 Biweekly data analysis introduction for local community of Indonesian in Tokyo Institute of Technology. The programing languange introduce in the discussion are R and Python. The participants ranging from beginer to advance level of coding who want to discuss together about the trend of data analysis. Participants also comes from different backgroud such as life science and engineering. The notes from each meeting are available [here](https://github.com/erawijantari/RPyId).
 
-**Time frame**: 2019-Present
+**Time frame**: 2019-2020
 
 **Roles**: Initiator and Tutor
 

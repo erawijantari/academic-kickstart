@@ -15,12 +15,12 @@ header:
 ---
 
 
-I am curently involve in several research projects related to explorations of gut microbiome and metabolome in gastrointestinal related diseases. My main project aims for **comprehensive characterizations of human fecal microbiome and metabolome after gastrectomy for gastric cancer**. In additions, I also actively involve as a research assistant for hereditary colorectal cancer project and diet-microbiome project. 
+I am curently involve in several research projects related to explorations of gut microbiome and metabolome in human health condition using large population data. My main PhD project aims for **comprehensive characterizations of human fecal microbiome and metabolome after gastrectomy for gastric cancer**. In additions, I also actively involve in research for hereditary colorectal cancer project and diet-microbiome project. 
 <br></br>
 
 #### Publications and Conferences 
 
-**2019**
+**2020**
 
 ##### Influence of gastrectomy for gastric cancer treatment on faecal microbiome and metabolome profiles
 **Erawijantari PP**, Mizutani S, Shiroma H, Shiba S, Nakajima T, Sakamoto T, Saito Y,

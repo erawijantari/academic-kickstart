@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Tokyo Institute of Technology
-  url: "http://comp.bio.titech.ac.jp/home-en/"
+- name: University of Turku, Finland
+  url: "https://www.utu.fi/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: <>
