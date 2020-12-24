@@ -30,9 +30,9 @@ interests:
 
 education:
   courses:
-  - course: PhD student in Life Science and Techology
+  - course: D.Sc in Life Science and Techology
     institution: Tokyo Institute of Technology
-    year: 2017-Present
+    year: 2017-2020
   - course: M.Sc in Biological Information
     institution: Tokyo Institute of Technology
     year: 2015-2017
@@ -80,8 +80,8 @@ email: ""
 ---
 
 
-I am a PhD student in School of Life Science and Technology, Tokyo Institute of Technology where I belong to [Yamada Laboratory group](http://comp.bio.titech.ac.jp/home-en/). In this group, I learn and take part in exploring the gut microbiome world through various data analysis approaches.
+I am a Postdoctoral Researcher at University of Turku where I worked with group of [Turku Hypertension Center](https://www.hypertensioncenter.org/) and [Turku Data Science Group](http://datascience.utu.fi/). In this group, I take part in exploring the gut microbiome world through various data analysis approaches toward clinical application.
 
-Originally my initial training was in biology, where I have worked on the deep-sea metagenomics study, synthetic biology, and phytochemical effectiveness as anticancer treatment. Currently, I am mostly working behind the computer. My current research mainly focus on the dynamics of human gut microbiome in  gastrointestinal-related diseases. In particular, I have worked on the gastrectomy effect on human gut microbiome in a gastric cancer case. This study uses the multi-omics approaches, which involve the metagenomics and metabolomics analyses on human fecal samples. I used Python, R, and shell scripting for my projects, which mostly run in the cluster computer. Complexity and fast-growing data in microbiome study also push me to learn a lot of new skills, which are a fascinating process. I am particularly interested in understanding the roles of microbiome as an effect or consequence in gastrointestinal-related diseases and treatment effectiveness.
+Originally my initial training was in biology, where I have worked on the deep-sea metagenomics study, synthetic biology, and phytochemical effectiveness as anticancer treatment. Currently, I am mostly working behind the computer. My current research mainly focus on the dynamics of human gut microbiome in  human health and diseases condition using large population data. This study uses the multi-omics approaches, which involve the metagenomics and metabolomics analyses on human fecal samples. I used Python, R, and shell scripting for my projects, which mostly run in the cluster computer. Complexity and fast-growing data in microbiome study also push me to learn a lot of new skills, which are a fascinating process. I am particularly interested in understanding the roles of microbiome as an effect or consequence in human health conditions.
 
-Aside from research, I also one of initiators and contributors to biweekly data analysis discussions for local Indonesian community at Tokyo Institute of Technology. You can check our activity in our [notes](https://github.com/erawijantari/RPyId). I also like to spend my spare time reading, mostly popular science books and novels. I love singing, Balinese dancing, and currently playing ocarina. 
+Aside from research, I like to spend my spare time reading, mostly popular science books and novels. I love singing, Balinese dancing, and trying new food recipes. 
