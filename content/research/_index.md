@@ -14,25 +14,19 @@ header:
   image: ""
 ---
 
+I am curently involve in several research projects related to explorations of gut microbiome and metabolome in gastrointestinal related diseases. My PhD project aims for **comprehensive characterizations of human fecal microbiome and metabolome after gastrectomy for gastric cancer**. In additions, I also actively involve as a research assistant for hereditary colorectal cancer project and diet-microbiome project during my PhD. My posdoctoral research project further explore the potential association of human microbiome with long-term diseases condition using the large, deeply phenotype population cohort.
 
-<<<<<<< HEAD
-I am curently involve in several research projects related to explorations of gut microbiome and metabolome in human health condition using large population data. My main PhD project aims for **comprehensive characterizations of human fecal microbiome and metabolome after gastrectomy for gastric cancer**. In additions, I also actively involve in research for hereditary colorectal cancer project and diet-microbiome project. 
-=======
-I am curently involve in several research projects related to explorations of gut microbiome and metabolome in gastrointestinal related diseases. My main project aims for **comprehensive characterizations of human fecal microbiome and metabolome after gastrectomy for gastric cancer**. In additions, I also actively involve as a research assistant for hereditary colorectal cancer project and diet-microbiome project. 
->>>>>>> 8c34bafd80d0f9c1e8dc348ef3f58b28bf236a84
 <br></br>
 
 #### Publications and Conferences 
 
-<<<<<<< HEAD
 **2020**
-=======
-**2019**
->>>>>>> 8c34bafd80d0f9c1e8dc348ef3f58b28bf236a84
 
 ##### Influence of gastrectomy for gastric cancer treatment on faecal microbiome and metabolome profiles
 **Erawijantari PP**, Mizutani S, Shiroma H, Shiba S, Nakajima T, Sakamoto T, Saito Y,
 Fukuda S , Yachida S, Yamada T. Influence of gastrectomy for gastric cancer treatment on faecal microbiome and metabolome profiles. [Gut](https://gut.bmj.com/content/early/2020/01/09/gutjnl-2019-319188). Published Online First: 16 January 2020. doi: 10.1136/gutjnl-2019-319188.
+
+**2019**
 
 ##### Fecal microbiome and metabolome characterizations of patients after gastrectomy for gastric cancer treatment
 **Erawijantari PP**, Mizutani S, Shiroma H, Yachida S, Yamada T. October 6, 2019; [Keystone Symposia on Molecular and Cellular Biology: Microbiome: Therapeutic Implications (T1)](https://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1696). **Poster**.
@@ -41,9 +35,9 @@ Fukuda S , Yachida S, Yamada T. Influence of gastrectomy for gastric cancer trea
 **2018**
 
 ##### Metagenomic and metabolomic profiling to characterize the effect of gastrectomy as gastric cancer treatment on human gut microbiome  
-**Erawijantari PP**, Mizutani S, Shiroma H, Yachida S, Yamada T. June 26-28, 2018; [7th International Human Microbiome Consortium : Translating microbiome science](http://apc.ucc.ie/ihmc-2018/). **Poster**. **Selected as Early Career Scientist Bursary Recipient*.
+**Erawijantari PP**, Mizutani S, Shiroma H, Yachida S, Yamada T. June 26-28, 2018; [7th International Human Microbiome Consortium : Translating microbiome science](http://apc.ucc.ie/ihmc-2018/). **Poster**. **Selected as Early Career Scientist Bursary Recipient**.
 
-##### Characterization of human gut microbiome and metabolome of gastric cancer patients after gastrectomy
+##### Characterization of human gut microbiome and metabolome sof gastric cancer patients after gastrectomy
 **Erawijantari PP**, Mizutani S, Shiroma H, Yachida S, Yamada T. March 5, 2018; [Keystone Symposia on Molecular and Cellular Biology: Manipulation of the Gut Microbiota for Metabolic Health](https://tks.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1522). **Poster**.
 
 
