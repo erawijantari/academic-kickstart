@@ -71,7 +71,3 @@ Dewi K, Widyarto B, **Erawijantari PP**, Widowati W. Int J Res Med Sci 3 (9), 23
 
 ##### A new whole cell biocatalyst to degrade poly-ethylene terephthalate (PET)
 **Erawijantari PP**, Tri EH, Oktira RA, Nimas G, Joko PT, Christian H, Risma W, Tirta WGC, Suhandono S, Natalia D, Moeis MR.  Nov, 2014; Symposium Nanotechnology and Biotechnology 2014. **Talk**. *This project also get a Gold medal at [iGEM 2014](http://2014.igem.org/Team:ITB_Indonesia)*.
-
-
-
-
